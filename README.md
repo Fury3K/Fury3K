@@ -4,11 +4,11 @@
 
 <img align="left" src="https://wsrv.nl/?url=raw.githubusercontent.com/Fury3K/Fury3K/main/profile.jpg?v=2&w=160&h=160&fit=cover&mask=circle&output=png" width="160" hspace="20" alt="Nathan's Avatar">
 
-🔭 I’m currently working on : **Audio Scholar** (AI Learning Assistant) & **Brisa Solei** (Resort Booking)<br>
-🌱 I’m currently learning : **AWS Cloud Architecture**, **Advanced System Design**<br>
-💬 Ask me about : **Java (Spring Boot)**, **React 19**, **AI Integrations**<br>
+🔭 I’m currently working on : **Apartment-System-Concept** & **Plate-Pal Revived**<br>
+🌱 I’m currently learning : **Angular**<br>
+💬 Ask me about : **Java**, **React**, **Next.js**, **AI Integrations**<br>
 👨‍💻 Read my Portfolio : <a href="https://njorlanes.netlify.app/" target="_blank" rel="noopener noreferrer">njorlanes.netlify.app</a><br>
-⚡ Fun fact : I specialize in integrating **Gemini API** for innovative AI solutions!<br>
+⚡ Fun fact : I enjoy playing and collecting guitars! (can never have too many lol)<br>
 📫 How to reach me : n8thanjohn@gmail.com
 
 <br clear="left"/>
