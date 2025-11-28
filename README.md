@@ -1,9 +1,7 @@
 # Hi 👋, I'm Nathan John G. Orlanes
 
 ## 💫 About Me:
-
-<img align="left" src="https://wsrv.nl/?url=raw.githubusercontent.com/Fury3K/Fury3K/main/profile.jpg?v=2&w=160&h=160&fit=cover&mask=circle&output=png" width="160" hspace="20" alt="Nathan's Avatar">
-
+<img align="left" src="https://raw.githubusercontent.com/Fury3K/Fury3K/main/Pug%20Rest.gif" width="180" alt="Resting Pug">
 🔭 I’m currently working on : **Apartment-System-Concept** & **Plate-Pal Revived**<br>
 🌱 I’m currently learning : **Angular**<br>
 💬 Ask me about : **Java**, **React**, **Next.js**, **AI Integrations**<br>
