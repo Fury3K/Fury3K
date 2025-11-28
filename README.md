@@ -2,12 +2,13 @@
 
 ## 💫 About Me:
 <img align="left" src="https://raw.githubusercontent.com/Fury3K/Fury3K/main/Pug%20Rest.gif" width="180" alt="Resting Pug">
-🔭 I’m currently working on : **Apartment-System-Concept** & **Plate-Pal Revived**<br>
-🌱 I’m currently learning : **Angular**<br>
-💬 Ask me about : **Java**, **React**, **Next.js**, **AI Integrations**<br>
-👨‍💻 Read my Portfolio : <a href="https://njorlanes.netlify.app/" target="_blank" rel="noopener noreferrer">njorlanes.netlify.app</a><br>
-⚡ Fun fact : I enjoy playing and collecting guitars! (can never have too many lol)<br>
-📫 How to reach me : n8thanjohn@gmail.com
+
+🔭 **I’m currently working on :** Apartment-System-Concept & Plate-Pal Revived<br>
+🌱 **I’m currently learning :** Angular<br>
+💬 **Ask me about :** Java, React, Next.js, AI Integrations<br>
+👨‍💻 **Read my Portfolio :** <a href="https://njorlanes.netlify.app/" target="_blank" rel="noopener noreferrer">njorlanes.netlify.app</a><br>
+⚡ **Fun fact :** I enjoy playing and collecting guitars! (can never have too many lol)<br>
+📫 **How to reach me :** n8thanjohn@gmail.com
 
 <br clear="left"/>
 
