@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-<img align="left" src="https://wsrv.nl/?url=github.com/user-attachments/assets/7932fd99-e111-40e8-9244-6194f34703f6&w=160&h=160&fit=cover&mask=circle&output=png" width="160" alt="Nathan's Avatar">
+<img align="left" src="https://wsrv.nl/?url=raw.githubusercontent.com/Fury3K/Fury3K/main/profile.jpg?v=2&w=160&h=160&fit=cover&mask=circle&output=png" width="160" hspace="20" alt="Nathan's Avatar">
 
 🔭 I’m currently working on : **Audio Scholar** (AI Learning Assistant) & **Brisa Solei** (Resort Booking)<br>
 🌱 I’m currently learning : **AWS Cloud Architecture**, **Advanced System Design**<br>
