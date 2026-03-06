@@ -3,7 +3,7 @@
 ## 💫 About Me:
 <img align="left" src="https://raw.githubusercontent.com/Fury3K/Fury3K/main/Pug%20Rest.gif" width="180" alt="Resting Pug">
 
-🔭 **I’m currently working on :** inventorySysd<br>
+🔭 **I’m currently working on :** inventorySys and JeepMe<br>
 🌱 **I’m currently learning :** Angular<br>
 💬 **Ask me about :** Java, React, Next.js, AI Integrations<br>
 👨‍💻 **Read my Portfolio :** <a href="https://njorlanes.netlify.app/" target="_blank" rel="noopener noreferrer">njorlanes.netlify.app</a><br>
