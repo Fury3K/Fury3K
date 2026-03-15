@@ -1,88 +1,113 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                                                                          ║ -->
+<!-- ║   N A T H A N   O R L A N E S                                            ║ -->
+<!-- ║   github.com/Fury3K                                                      ║ -->
+<!-- ║                                                                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,30:001a0d,60:003318,100:00FF88&text=NATHAN%20ORLANES&fontSize=55&fontColor=00FF88&animation=fadeIn&fontAlignY=40&desc=%E2%94%80%E2%94%80%E2%94%80%20full-stack%20developer%20%C2%B7%20builder%20%C2%B7%20guitar%20hoarder%20%E2%94%80%E2%94%80%E2%94%80&descSize=14&descAlignY=62&descColor=4a9e6e&stroke=00FF88&strokeWidth=1" width="100%"/>
+
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:001a0d,100:00FF88&text=NATHAN%20ORLANES&fontSize=60&fontColor=00FF88&animation=fadeIn&fontAlignY=45&desc=building%20things%20that%20work%20%E2%80%94%20and%20look%20good%20doing%20it&descSize=16&descAlignY=65&descColor=4a9e6e&stroke=00FF88&strokeWidth=1" width="100%"/>
-
-<br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%24+ssh+nathan%40fullstack.dev;%3E+Connection+established.+Welcome+back." alt="Terminal Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1200&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%24+cat+%2Fetc%2Fmotd;%3E+Welcome.+I+build+things+that+work+%E2%80%94+and+look+good+doing+it." alt="Terminal Intro"/>
 </a>
 
+<br>
+
+<!-- ── QUICK STATUS BAR ────────────────────────────────────────────── -->
+
+<a href="https://njorlanes.netlify.app/"><img src="https://img.shields.io/badge/⚡_Portfolio-njorlanes.netlify.app-00FF88?style=flat-square&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/🟢_Status-Open_to_Work-FF6B6B?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📍_Location-Philippines_🇵🇭-4a9e6e?style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Fury3K&color=00FF88&style=flat-square&label=👁️+Profile+Views"/>
+
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- QUICK LINKS BAR -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           A B O U T   M E                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://njorlanes.netlify.app/"><img src="https://img.shields.io/badge/portfolio-njorlanes.netlify.app-00FF88?style=flat-square&labelColor=0d1117"/></a>
-  <img src="https://img.shields.io/badge/status-open%20to%20work-FF6B6B?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/location-Philippines%20🇵🇭-4a9e6e?style=flat-square&labelColor=0d1117"/>
-  <img src="https://komarev.com/ghpvc/?username=Fury3K&color=00FF88&style=flat-square&label=visitors"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="500"/>
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 ```
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   Full-stack developer who ships clean UIs backed by solid APIs.     │
-│   Java + Spring Boot on the backend. React + Next.js on the front.   │
-│   Currently exploring Angular and building with AI integrations.     │
-│                                                                      │
-│   When I'm not coding, I'm probably adding another guitar to the     │
-│   collection. Yes, I need all of them.                               │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+                    ╭─────────────────── system ───────────────────╮
+                    │                                              │
+                    │  user     : Nathan John G. Orlanes           │
+                    │  role     : Full-Stack Developer              │
+                    │  uptime   : since 2003                       │
+                    │  shell    : java/react/next.js               │
+                    │  editor   : IntelliJ IDEA                    │
+                    │  theme    : dark (always)                    │
+                    │                                              │
+                    │  fun_fact : owns more guitars than monitors  │
+                    │                                              │
+                    ╰──────────────────────────────────────────────╯
 ```
+
+</div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENT WORK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     C U R R E N T   W O R K                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 &nbsp;Currently Building
+<div align="center">
 
-```
-┌─────────────────────────┐
-│ ▸ inventorySys          │
-│   inventory management  │
-│   system                │
-│                         │
-│ ▸ JeepMe               │
-│   jeepney route &       │
-│   navigation app        │
-└─────────────────────────┘
+### `🔭 building`
+
+</div>
+
+```js
+const projects = {
+  inventorySys: {
+    desc: "Inventory management system",
+    stack: ["Java", "Spring Boot", "React"],
+    status: "🟢 active"
+  },
+  JeepMe: {
+    desc: "Jeepney route & navigation",
+    stack: ["Kotlin", "Jetpack Compose"],
+    status: "🟡 in progress"
+  }
+};
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 &nbsp;Currently Learning
+<div align="center">
+
+### `🌱 leveling up`
+
+</div>
 
 ```
-┌─────────────────────────┐
-│                         │
-│   Angular  ████████░░   │
-│   AWS      ██████░░░░   │
-│   Docker   █████░░░░░   │
-│                         │
-└─────────────────────────┘
+   Angular      ██████████████░░░░░░  70%
+   AWS          ████████████░░░░░░░░  60%
+   Docker       ██████████░░░░░░░░░░  50%
+   System Design████████░░░░░░░░░░░░  40%
+
+   ┌──────────────────────────────┐
+   │  🎯 2026 GOALS              │
+   │  · Ship 3 production apps   │
+   │  · Land a dev role          │
+   │  · Master Angular           │
+   │  · 365-day commit streak    │
+   └──────────────────────────────┘
 ```
 
 </td>
@@ -91,138 +116,247 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       T E C H   S T A C K                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="500"/>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=3000&color=00FF88&center=true&vCenter=true&width=300&height=40&lines=%24+tech+--list" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=3000&color=00FF88&center=true&vCenter=true&width=300&height=35&lines=%24+neofetch+--stack" alt="Stack"/>
 </div>
 
 <br>
 
+<!-- Skill Icons - the beautiful version -->
+
 <div align="center">
 
-| | Stack | Technologies |
+**`FRONTEND`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,vite&theme=dark" />
+</a>
+
+<br><br>
+
+**`BACKEND`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php&theme=dark" />
+</a>
+
+<br><br>
+
+**`DATABASE & CLOUD`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,docker&theme=dark" />
+</a>
+
+<br><br>
+
+**`MOBILE`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+</a>
+
+<br><br>
+
+**`TOOLS & PLATFORMS`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,maven,gradle,postman,vercel,netlify,linux&theme=dark" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--              D E T A I L E D   T E C H   T A B L E                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>📋 Expand for detailed tech breakdown</b></summary>
+<br>
+
+<div align="center">
+
+| | Domain | Technologies |
 |:---:|:---|:---|
-| `🌐` | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logoColor=white) |
-| `⚙️` | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| `🗄️` | **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase) |
-| `📱` | **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| `🤖` | **AI & Cloud** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) |
-| `🔧` | **Tooling** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=flat-square&logo=intellij-idea) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+| `🌐` | **Frontend** | Next.js 16 · React 19 · Angular · TypeScript · JavaScript · Tailwind CSS · DaisyUI · GSAP · HTML5 · CSS3 · Vite |
+| `⚙️` | **Backend** | Java · Spring Boot · Node.js · Express.js · Python · PHP |
+| `🗄️` | **Data** | PostgreSQL · MySQL · MongoDB · Firebase |
+| `📱` | **Mobile** | Kotlin · Jetpack Compose · Android |
+| `🤖` | **AI & Cloud** | Gemini API · AWS · Docker |
+| `🔧` | **Tooling** | Git · GitHub · IntelliJ IDEA · Maven · Gradle · Postman · Vercel · Netlify |
+| `🖥️` | **OS** | Windows · Linux |
 
 </div>
 
+</details>
+
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       G I T H U B   S T A T S                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="500"/>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=3000&color=00FF88&center=true&vCenter=true&width=300&height=40&lines=%24+git+log+--stat" alt="Stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=3000&color=00FF88&center=true&vCenter=true&width=350&height=35&lines=%24+git+log+--oneline+--graph" alt="Stats"/>
 </div>
 
 <br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fury3K&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+<br>
+
+<!-- Stats Cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fury3K&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF88&text_color=9ca3af&icon_color=00FF88&ring_color=00FF88"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fury3K&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FF88&text_color=9ca3af&langs_count=8"/>
+</div>
+
+<br>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Fury3K&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=9ca3af&dates=4a9e6e&currStreakNum=00FF88&sideNums=00FF88" alt="Streak"/>
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fury3K&bg_color=0d1117&color=4a9e6e&line=00FF88&point=FF6B6B&area=true&area_color=00FF8815&hide_border=true&custom_title=📈%20Contribution%20Timeline" alt="Activity Graph" width="95%"/>
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--            3 D   C O N T R I B U T I O N   G R A P H                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fury3K&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF88&text_color=9ca3af&icon_color=00FF88&ring_color=00FF88"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fury3K&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF88&text_color=9ca3af&icon_color=00FF88&ring_color=00FF88"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fury3K&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FF88&text_color=9ca3af"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fury3K&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FF88&text_color=9ca3af"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" width="95%"/>
   </picture>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Fury3K&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=9ca3af&dates=4a9e6e" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fury3K&bg_color=0d1117&color=4a9e6e&line=00FF88&point=FF6B6B&area=true&area_color=00FF8815&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     S N A K E   A N I M A T I O N                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fury3K/Fury3K/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fury3K/Fury3K/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Fury3K/Fury3K/output/github-snake-dark.svg"/>
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Fury3K/Fury3K/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    G I T H U B   M E T R I C S                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>📊 Expand for detailed GitHub Metrics</b></summary>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="400"/>
+
+<!-- These require the lowlighter/metrics GitHub Action -->
+<!-- See setup instructions at: https://github.com/lowlighter/metrics -->
+
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="95%"/>
+
+</div>
+
+</details>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      C O N N E C T                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF88" width="500"/>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=3000&color=00FF88&center=true&vCenter=true&width=350&height=40&lines=%24+curl+--connect" alt="Connect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=3000&color=00FF88&center=true&vCenter=true&width=400&height=35&lines=%24+ping+nathan%40internet" alt="Connect"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:n8thanjohn@gmail.com"><img src="https://img.shields.io/badge/n8thanjohn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nathan-orlanes-a171332a5/"><img src="https://img.shields.io/badge/Nathan_Orlanes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Fury3K"><img src="https://img.shields.io/badge/Fury3K-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
 
-<div align="center">
-  <br>
-  <a href="https://www.facebook.com/n8thanjohn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/nj.orlanes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   "Any fool can write code that a computer can understand.           │
-│    Good programmers write code that humans can understand."           │
-│                                                    — Martin Fowler   │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-```
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Fury3K/Fury3K/main/Pug%20Rest.gif" width="100" alt="Resting Pug"/>
-
-<sub>this pug is my spirit animal after deploying on Fridays</sub>
+<a href="mailto:n8thanjohn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-n8thanjohn-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nathan-orlanes-a171332a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nathan_Orlanes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Fury3K">
+  <img src="https://img.shields.io/badge/GitHub-Fury3K-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:001a0d,100:00FF88&section=footer"/>
+<a href="https://www.facebook.com/n8thanjohn/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/nj.orlanes/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://njorlanes.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=netlify&logoColor=0d1117"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        F O O T E R                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│   "First, solve the problem. Then, write the code."                      │
+│                                                        — John Johnson    │
+│                                                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Fury3K/Fury3K/main/Pug%20Rest.gif" width="90" alt="Resting Pug"/>
+<br>
+<sub><code>// this pug is my spirit animal after deploying on a friday at 4:59 PM</code></sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,30:001a0d,60:003318,100:00FF88&section=footer"/>
 
 </div>
