@@ -135,7 +135,7 @@ const projects = {
 **`FRONTEND`**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,vite,threejs&theme=dark" />
 </a>
 
 <br><br>
@@ -159,7 +159,15 @@ const projects = {
 **`MOBILE`**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
+</a>
+
+<br><br>
+
+**`LANGUAGES`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,swift,php,python&theme=dark" />
 </a>
 
 <br><br>
@@ -167,7 +175,7 @@ const projects = {
 **`TOOLS & PLATFORMS`**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,maven,gradle,postman,vercel,netlify,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,maven,gradle,postman,vercel,netlify,linux,eslint&theme=dark" />
 </a>
 
 </div>
@@ -186,13 +194,14 @@ const projects = {
 
 | | Domain | Technologies |
 |:---:|:---|:---|
-| `🌐` | **Frontend** | Next.js 16 · React 19 · Angular · TypeScript · JavaScript · Tailwind CSS · DaisyUI · GSAP · HTML5 · CSS3 · Vite |
-| `⚙️` | **Backend** | Java · Spring Boot · Node.js · Express.js · Python · PHP |
+| `🌐` | **Frontend** | Next.js · React · Angular · TypeScript · JavaScript · Tailwind CSS · DaisyUI · GSAP · Three.js · Leaflet · HTML5 · CSS3 · Vite |
+| `⚙️` | **Backend** | Java · Spring Boot · Node.js · Express.js · Python · PHP · SQL |
 | `🗄️` | **Data** | PostgreSQL · MySQL · MongoDB · Firebase |
-| `📱` | **Mobile** | Kotlin · Jetpack Compose · Android |
+| `📱` | **Mobile** | Flutter · Dart · Kotlin · Jetpack Compose · Android · Swift / Objective-C |
+| `🖥️` | **Systems** | C · Python · PowerShell |
 | `🤖` | **AI & Cloud** | Gemini API · AWS · Docker |
-| `🔧` | **Tooling** | Git · GitHub · IntelliJ IDEA · Maven · Gradle · Postman · Vercel · Netlify |
-| `🖥️` | **OS** | Windows · Linux |
+| `🔧` | **Tooling** | Git · GitHub · IntelliJ IDEA · Maven · Gradle · Postman · ESLint · Vercel · Netlify |
+| `💻` | **OS** | Windows · Linux |
 
 </div>
 
