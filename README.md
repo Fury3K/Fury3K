@@ -135,7 +135,7 @@ const projects = {
 **`FRONTEND`**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,vite,threejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite,threejs,framer&theme=dark" />
 </a>
 
 <br><br>
@@ -143,7 +143,7 @@ const projects = {
 **`BACKEND`**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php,fastapi&theme=dark" />
 </a>
 
 <br><br>
@@ -151,7 +151,7 @@ const projects = {
 **`DATABASE & CLOUD`**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,aws,docker&theme=dark" />
 </a>
 
 <br><br>
@@ -194,13 +194,13 @@ const projects = {
 
 | | Domain | Technologies |
 |:---:|:---|:---|
-| `🌐` | **Frontend** | Next.js · React · Angular · TypeScript · JavaScript · Tailwind CSS · DaisyUI · GSAP · Three.js · Leaflet · HTML5 · CSS3 · Vite |
-| `⚙️` | **Backend** | Java · Spring Boot · Node.js · Express.js · Python · PHP · SQL |
-| `🗄️` | **Data** | PostgreSQL · MySQL · MongoDB · Firebase |
+| `🌐` | **Frontend** | Next.js · React · TypeScript · JavaScript · Tailwind CSS · DaisyUI · GSAP · Three.js · Framer Motion · Leaflet · HTML5 · CSS3 · Vite |
+| `⚙️` | **Backend** | Java · Spring Boot · Node.js · Express.js · FastAPI · Python · PHP · SQL |
+| `🗄️` | **Data** | PostgreSQL · MySQL · MongoDB · SQLite · Firebase |
 | `📱` | **Mobile** | Flutter · Dart · Kotlin · Jetpack Compose · Android · Swift / Objective-C |
 | `🖥️` | **Systems** | C · Python · PowerShell |
 | `🤖` | **AI & Cloud** | Gemini API · AWS · Docker |
-| `🔧` | **Tooling** | Git · GitHub · IntelliJ IDEA · Maven · Gradle · Postman · ESLint · Vercel · Netlify |
+| `🔧` | **Tooling** | Git · GitHub · IntelliJ IDEA · Maven · Gradle · Postman · ESLint · Playwright · Vercel · Netlify |
 | `💻` | **OS** | Windows · Linux |
 
 </div>
